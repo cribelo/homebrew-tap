@@ -5,23 +5,23 @@ class Cribelo < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/cribelo/cribelo/releases/download/v1.1.1/cribelo_Darwin_arm64"
-      sha256 "a17167f2554a2841920858b27dd42a81a4f131c18e9652ad1175265950097c81"
+      url "https://github.com/cribelo/cribelo/releases/download/v1.1.2/cribelo_Darwin_arm64"
+      sha256 "c2663779164fce451e5dcfd7c73ab5cc1dd5874c58e12407120e949d7eb77c1d"
     end
     on_intel do
-      url "https://github.com/cribelo/cribelo/releases/download/v1.1.1/cribelo_Darwin_x86_64"
-      sha256 "2f5b7b8c2cb646c00e744c4688f20b709a7838105539715d9b70674bc8ee90e4"
+      url "https://github.com/cribelo/cribelo/releases/download/v1.1.2/cribelo_Darwin_x86_64"
+      sha256 "9ea47fd32c0f170bbb9b193b5aad23b12bb6bfa3b51916f0f0868cf36a6e9693"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/cribelo/cribelo/releases/download/v1.1.1/cribelo_Linux_arm64"
-      sha256 "7584798aadf09cb8c542be7d56808de10cd106a8d9b9ee9181760977680e25f4"
+      url "https://github.com/cribelo/cribelo/releases/download/v1.1.2/cribelo_Linux_arm64"
+      sha256 "e5cc365f8e478de4227faf30b3cce6c8dfa189cbb12a70b9ddc50588dbb065a8"
     end
     on_intel do
-      url "https://github.com/cribelo/cribelo/releases/download/v1.1.1/cribelo_Linux_x86_64"
-      sha256 "374d9d321c712677d25468d2f8dd725c1cff1431e84ab64bdda7ede3cdcf0b2e"
+      url "https://github.com/cribelo/cribelo/releases/download/v1.1.2/cribelo_Linux_x86_64"
+      sha256 "1912edeb2ee1daa160d7f10478b165a387dc6faa2b91599e065cd50f57d5a82c"
     end
   end
 
